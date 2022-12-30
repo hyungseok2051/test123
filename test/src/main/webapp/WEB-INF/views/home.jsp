@@ -12,5 +12,6 @@
 <P>  The time on the server is ${serverTime}. </P>
 <P>  commit test1 </P>
 <P>  commit test2.ksy </P>
+<P>  commit test3.khs </P>
 </body>
 </html>
